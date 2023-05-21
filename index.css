@@ -41,7 +41,7 @@ footer {
 	margin-left: 5px;
 	font-size: 1.5rem;
 	font-weight: 600;
-	transition: opacity 0.5s linear;
+	
 }
 #tweet-quote,
 #tumblr-quote {
@@ -52,7 +52,6 @@ footer {
 	font-size: 1.3rem;
 	font-weight: 400;
 	text-align: right;
-	transition: opacity 0.5s linear;
 }
 .link-btn {
 	padding: 3px;
